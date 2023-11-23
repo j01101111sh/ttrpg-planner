@@ -36,6 +36,10 @@ profile = 'black'
 [tool.pylint.main]
 disable = [
     "R0801", # similar lines in 2 files
+    "C0114", # missing module docstring
+    "C0115", # missing class docstring
+    "C0116", # missing function docstring
+    "W0611", # unused import
 ]
 
 [tool.pylint.format]
