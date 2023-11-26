@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ttrpg-planner"
+name = "norns"
 version = "0.1.0"
 description = ""
 authors = ["Josh Odell <87207916+j01101111sh@users.noreply.github.com>"]
