@@ -1,1 +1,1 @@
-# ttrpg-planner
+# norns
