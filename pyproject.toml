@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "norns"
 version = "0.1.0"
-description = ""
+description = "A locally hosted web app to assist with scheduling game nights, primarily geared towards tabletop roleplaying games (TTRPG) utilizing virtual table tops (VTT)."
 authors = ["Josh Odell <87207916+j01101111sh@users.noreply.github.com>"]
 readme = "README.md"
 
