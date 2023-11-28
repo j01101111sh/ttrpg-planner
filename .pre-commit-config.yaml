@@ -72,7 +72,7 @@ repos:
         types: [python]
       - id: poetry-sync
         name: poetry-sync
-        entry: poetry install --sync
+        entry: poetry install --sync --with dev
         language: system
         always_run: true
         stages:
