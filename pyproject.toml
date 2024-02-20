@@ -15,7 +15,7 @@ optional = true
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^3.6.2"
 pylint = "^3.0.3"
-pytest = "^8.0.0"
+pytest = "^8.0.1"
 flake8 = "^7.0.0"
 bandit = "^1.7.7"
 pyupgrade = "^3.15.1"
