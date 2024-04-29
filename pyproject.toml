@@ -20,7 +20,7 @@ flake8 = "^7.0.0"
 bandit = "^1.7.7"
 pyupgrade = "^3.15.1"
 isort = "^5.13.0"
-black = "^23.12.1"
+black = "^24.4.2"
 pytest-cov = "^4.1.0"
 
 [build-system]
